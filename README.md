@@ -1,6 +1,6 @@
 # Wbhks
 
-Webhook integration kit for Next.js Edge Runtime. Handles signature verification, event routing, retries, and idempotency. Compliant with the [Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks/blob/main/spec/standard-webhooks.md).
+A webhook integration kit. Handles signature verification, event routing, retries, and idempotency. Compliant with the [Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks/blob/main/spec/standard-webhooks.md).
 
 ## Installation
 
